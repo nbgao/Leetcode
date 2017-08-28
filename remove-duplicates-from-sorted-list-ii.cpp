@@ -42,7 +42,7 @@ public:
 				q = q->next;
 			}
 		}
-		return L->next;        
+		return L->next;   
     }
 };
 
